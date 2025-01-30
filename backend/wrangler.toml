@@ -5,6 +5,6 @@ compatibility_date = "2024-12-27"
 
 [vars]
 
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiODY0MzY2NWItYzdjNC00ZDQ3LWI0ZjItODZhMWUwYjBhZDcxIiwidGVuYW50X2lkIjoiMWVjMzUzOTBlNzE0N2I2MzQ4NDY1MjhiZTlkZDNhZjk4NjkzOThkN2UwNDdkNTM2N2IwMzU4NDgzMzczODdkYiIsImludGVybmFsX3NlY3JldCI6Ijk4OTBiOWVhLTRhMjEtNDk5OC05MTc1LWMxMjhmNTM0NWViYyJ9.ZRuywhEH6Qd0pcWgIlB2ePi9OIwWJgpbu3pIigcnFtg"
+DATABASE_URL=""
 
-JWT_SECRET="very_strong_secret"
+JWT_SECRET=""
